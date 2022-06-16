@@ -1,0 +1,6 @@
+F:\Web API\farenheitApp\UnitTestTemperature\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\Web API\farenheitApp\UnitTestTemperature\obj\Debug\net6.0\UnitTestTemperature.csproj.AssemblyReference.cache
+F:\Web API\farenheitApp\UnitTestTemperature\obj\Debug\net6.0\UnitTestTemperature.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web API\farenheitApp\UnitTestTemperature\obj\Debug\net6.0\UnitTestTemperature.AssemblyInfoInputs.cache
+F:\Web API\farenheitApp\UnitTestTemperature\obj\Debug\net6.0\UnitTestTemperature.AssemblyInfo.cs
+F:\Web API\farenheitApp\UnitTestTemperature\obj\Debug\net6.0\UnitTestTemperature.csproj.CoreCompileInputs.cache
